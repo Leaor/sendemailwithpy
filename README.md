@@ -1,3 +1,4 @@
 # sendemailwithpy
 
-https://images.idgesg.net/images/article/2019/04/inbox-interface-gmail-message-list-100792475-large.jpg
+This is a very simple python mail sender 
+Hope you guys like it :)
